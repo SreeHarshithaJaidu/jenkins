@@ -4,8 +4,8 @@ pipeline {
     stages {
         stage('Print Info') {
             steps {
-                echo 'Name: Anjani Komaravelli'
-                echo 'Roll No: SE22UCSE029'
+                echo 'Name: Sree Harshitha'
+                echo 'Roll No: SE22Uari204'
             }
         }
 
